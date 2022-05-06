@@ -1,5 +1,4 @@
-PLAINEDIT takes markdown, evaluates code blocks with interpreters and prints the output of those processes to a different codeblock.
-Plain editor written in Bash, it's a single bash scripts with modular architecture opened for an extension scripts.
+Interesting Bash Script Collection for FREE!
 
 Do You like [**bashFunc**](http://www.bashfunc.com/)?  
 [![Github](https://img.shields.io/github/followers/tom-sapletta-com?label=Follow&style=social)](https://github.com/tom-sapletta-com)
